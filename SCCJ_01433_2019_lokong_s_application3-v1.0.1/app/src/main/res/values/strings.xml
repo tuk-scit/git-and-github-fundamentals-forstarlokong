@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">lokong_s_application3</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_continue">Continue</string>
+<string name="lbl_here">Here</string>
+<string name="msg_thank_you_for_s">thank you for Signing Up into MamaCare</string>
+<string name="lbl_nairobi2">Nairobi
+</string>
+<string name="msg_welcome_book_a">Welcome! Book an ambulance  to facilitate you in your transport to the facility.</string>
+<string name="lbl_next">Next</string>
+<string name="lbl_book">BOOK</string>
+<string name="lbl_user_name">User Name</string>
+<string name="msg_hi_ann_thank_y">Hi Ann, thank you for Signing Up into MamaCare</string>
+<string name="lbl_hme">hme</string>
+<string name="lbl2">!</string>
+<string name="lbl_home">Home</string>
+<string name="msg_please_go_back">Please go back to the </string>
+<string name="lbl_view_facilities">View Facilities</string>
+<string name="msg_hsdfgbawetuyawe">hsdfgbawetuyawerhqwerfsdfvbsdfsdgdfgh
+dfhgdfyhfdydf
+sdtsd</string>
+<string name="msg_pregnacy_compan">Pregnacy companion</string>
+<string name="lbl_password2">Password *</string>
+<string name="msg_please_sign_up">Please Sign Up or LogIn to continue!</string>
+<string name="msg_welcome_book_y">Welcome! Book your best facility to facilitate you in your pre and post natal states.</string>
+<string name="lbl_contact_nurse">Contact Nurse</string>
+<string name="lbl_mamacare">MAMACARE</string>
+<string name="lbl_set">set</string>
+<string name="msg_hospital_descri">Hospital description and services
+
+sbhdafhsjhrfashgfsrgaeyfsdhfgz7sgbfxcggzc</string>
+<string name="lbl_login3">LOGIN</string>
+<string name="lbl_nairobi">Nairobi</string>
+<string name="lbl_login2">Login</string>
+<string name="msg_you_are_a_few_s">You are a few steps away!</string>
+<string name="msg_under_construct">Under construction!</string>
+<string name="lbl_sign_up">Sign Up</string>
+<string name="msg_already_a_membe">Already A Member? Log In Here</string>
+<string name="lbl_sign_up2">SIGN UP</string>
+<string name="lbl_go_back">Go Back</string>
+<string name="lbl_blogs">Blogs</string>
+<string name="lbl_contacts">Contacts</string>
+<string name="msg_welcome_to_our">Welcome to our website!
+
+We are here for you.
+
+Get the best facilities at your nearest health facility.
+
+Please go back to the LogIn form to continue.</string>
+<string name="msg_this_site_will">This site will use your live location to diesplay relevant results</string>
+<string name="lbl">*********</string>
+<string name="lbl_b">b</string>
+<string name="msg_you_have_succes2">You have successfully booked and ambulance to facilitate your transpot to the Nairobi Hospital
+on 22nd September, 2022</string>
+<string name="msg_kiambu_kericho">Kiambu
+Kericho
+Isiolo
+Nakuru
+Kakamega
+Mombasa
+Wajir
+Marsabet</string>
+<string name="lbl_hospital_3">Hospital 3</string>
+<string name="lbl_hospital_1">Hospital 1</string>
+<string name="msg_welcome_to_our2">Welcome to our website!
+</string>
+<string name="lbl_hi_ann2">Hi Ann, </string>
+<string name="msg_already_a_membe2">Already A Member? </string>
+<string name="msg_enter_your_seco">Enter Your Second Name</string>
+<string name="lbl_available">Available</string>
+<string name="lbl_hi_ann">Hi Ann,</string>
+<string name="msg_enter_your_curr">Enter Your Current Location</string>
+<string name="lbl_search">Search</string>
+<string name="msg_confirm_pasword">Confirm Pasword *</string>
+<string name="msg_book_an_ambulan">Book an Ambulance</string>
+<string name="msg_enter_your_firs">Enter Your First Name *</string>
+<string name="msg_enter_your_mai">Enter Your -Maill Address *</string>
+<string name="lbl_please">Please </string>
+<string name="msg_example_gmail_c">example@gmail.com</string>
+<string name="msg_telephone_numbe">Telephone Number</string>
+<string name="msg_expected_month">Expected Month of Admission</string>
+<string name="msg_select_this_fac">Select this Facility</string>
+<string name="lbl_login">LogIn</string>
+<string name="lbl_to_continue"> to continue!</string>
+<string name="msg_enter_your_phon">Enter Your Phone Number *</string>
+<string name="lbl_close">Close</string>
+<string name="msg_kindly_consier">Kindly Consier this first hand information when you
+ are pregnant.
+
+. Do not take alcohol.
+. Do not overwork.
+. Seek medical help incase of any complications.
+. Get ample sleep.
+. EAt health food and drink a lot of clean water.</string>
+<string name="msg_we_are_here_for">
+We are here for you.
+
+Get the best facilities at your nearest health facility.
+
+</string>
+<string name="msg_go_to_facilitie">GO TO FACILITIES</string>
+<string name="msg_new_user_regis2">New User? Register </string>
+<string name="msg_review_your_fac">Review your facility</string>
+<string name="lbl_log_in_here">Log In Here</string>
+<string name="lbl_telephone_no">Telephone no</string>
+<string name="lbl_ok">OK</string>
+<string name="lbl_book_a_slot">Book a slot</string>
+<string name="msg_identification">Identification Number</string>
+<string name="msg_enter_your_loca">Enter your location</string>
+<string name="lbl_password">Password</string>
+<string name="lbl_or"> or </string>
+<string name="msg_form_to_continu"> form to continue.</string>
+<string name="msg_you_have_succes">You have successfully secured your self a facility at the Nairobi Hospital
+From 22nd September, 2022</string>
+<string name="msg_new_user_regis">New User? Register Here!</string>
+<string name="msg_nairobi_kiambu">Nairobi
+Kiambu
+Kericho
+Isiolo
+Nakuru
+Kakamega
+Mombasa
+Wajir
+Marsabet</string>
+<string name="lbl_help">Help!</string>
+<string name="lbl_admission_date">Admission Date</string>
+<string name="lbl_the_1">The # 1</string>
+<string name="lbl_full_name">Full Name</string>
+</resources>

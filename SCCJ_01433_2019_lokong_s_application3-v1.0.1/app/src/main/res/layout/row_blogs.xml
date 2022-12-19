@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="blogsRowModel" type="com.lokongsapplication.app.modules.blogs.data.model.BlogsRowModel"/>
+    </data>
+    <LinearLayout android:gravity="start"
+        android:id="@+id/linearHospital"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical" style="@style/groupStylewhite_A701">
+        <FrameLayout android:id="@+id/frameStackrectangletwentyfour"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="@dimen/_30pxv"
+            android:layout_marginEnd="@dimen/_8pxh"
+            android:layout_marginStart="@dimen/_7pxh" android:layout_width="@dimen/_161pxh">
+            <ImageView android:id="@+id/imageRectangleTwentyFour"
+                android:layout_gravity="start"
+                android:layout_height="@dimen/_30pxh"
+                android:layout_width="@dimen/_161pxh"
+                android:scaleType="fitXY"
+                android:src="@drawable/img_rectangle24_green_a701"
+                tools:ignore="ContentDescription" tools:src="@drawable/img_rectangle24_green_a701"/>
+            <TextView android:ellipsize="end"
+                android:gravity="top|start"
+                android:id="@+id/txtHospitalCounter"
+                android:layout_gravity="top|center"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10pxv"
+                android:layout_marginEnd="@dimen/_16pxh"
+                android:layout_marginStart="@dimen/_16pxh"
+                android:layout_marginTop="@dimen/_4pxv"
+                android:layout_width="match_parent"
+                android:singleLine="true"
+                android:text="@{blogsRowModel.txtHospitalCounter}"
+                style="@style/txtGeostarFillregular20" tools:text="@string/lbl_hospital_1"/>
+        </FrameLayout>
+        <TextView android:id="@+id/txtDescription"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2pxv"
+            android:layout_width="match_parent"
+            android:text="@{blogsRowModel.txtDescription}"
+            style="@style/txtGeostarFillregular7" tools:text="@string/msg_hospital_descri"/>
+        <ImageView android:id="@+id/imageH11"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="@dimen/_113pxh"
+            android:layout_marginEnd="@dimen/_10pxh"
+            android:layout_marginStart="@dimen/_10pxh"
+            android:layout_marginTop="@dimen/_7pxv"
+            android:layout_width="@dimen/_156pxh"
+            android:scaleType="fitXY" imageRes="@{@drawable/img_h11}"
+            tools:ignore="ContentDescription" tools:src="@drawable/img_h11"/>
+    </LinearLayout>
+</layout>
